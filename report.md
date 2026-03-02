@@ -29,8 +29,4 @@
 
 ## Usecases
 
-### Claude Code
-
-### Antigravity
-
-### Github Copilot
+First understand deeply about latest claude code, antigravity, & github copilot, and understand all the skills mentioned above (these skills are compatible with claude code, antigravity, & github copilot) and remember we can also define subagents for the claude code, but that does not work on antigravity, and github copilot, now the actual task for me is to make a very comprehensive and persuable report on which coding agent our software development team should use and that too using all the skills, and subagents (if possible) that we built, and for claude code also define the agents we should build based on the skill we have in `./claude/skills/` folder
