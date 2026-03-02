@@ -5,7 +5,10 @@
       "Bash(python3 generate_presentation.py)",
       "Bash(npm --version)",
       "Bash(node --version)",
-      "Bash(\"/c/Users/adimi/AppData/Roaming/uv/python/cpython-3.12.12-windows-x86_64-none/Lib/venv/scripts/nt/python.exe\" --version)"
+      "Bash(\"/c/Users/adimi/AppData/Roaming/uv/python/cpython-3.12.12-windows-x86_64-none/Lib/venv/scripts/nt/python.exe\" --version)",
+      "Bash(\"/c/Users/adimi/AppData/Roaming/uv/python/cpython-3.12.12-windows-x86_64-none/python.exe\" generate_presentation.py)",
+      "Bash(\"/c/Users/adimi/AppData/Roaming/uv/python/cpython-3.12.12-windows-x86_64-none/python.exe\" -m pip install python-pptx)",
+      "Bash(\"/c/Users/adimi/AppData/Roaming/uv/python/cpython-3.12.12-windows-x86_64-none/python.exe\" -m pip install python-pptx --break-system-packages)"
     ]
   }
 }
