@@ -2,44 +2,35 @@
 
 ## Skills
 
-1. agent-browser
-2. ai-elements
-3. authjs-skills
-4. before-and-after
-5. branding
-6. building-components
-7. content-strategy
-8. copywriting
-9. design-md
-10. humanizer
-11. json-render-core
-12. json-render-react
-13. json-render-remotion
-14. market-research
-15. mcp-server-skills
-16. next-best-practices
-17. next-cache-components
-18. next-upgrade
-19. playwright-cli
-20. prd-mastery-context-aware-expert-driven-and-token-efficient-refinement
-21. prisma-cli
-22. prisma-client-api
-23. prisma-database-setup
-24. prisma-driver-adapter-implementation
-25. prisma-orm-v7-skills
-26. prisma-postgres
-27. prisma-upgrade-v7
-28. remotion
-29. remotion-best-practices
-30. resend-integration-skills
-31. shadcn-ui
-32. streamdown
-33. vercel-composition-patterns
-34. vercel-react-best-practices
-35. web-design-guidelines
+1. **agent-browser**: Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task.
+2. **ai-elements**: Create new AI chat interface components for the ai-elements library following established composable patterns, shadcn/ui integration, and Vercel AI SDK conventions.
+3. **authjs-skills**: Auth.js v5 setup for Next.js authentication including Google OAuth, credentials provider, environment configuration, and core API integration.
+4. **before-and-after**: Captures before/after screenshots of web pages or elements for visual comparison.
+5. **building-components**: Guide for building modern, accessible, and composable UI components.
+6. **design-md**: Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files.
+7. **json-render-core**: Core package for defining schemas, catalogs, and AI prompt generation for json-render.
+8. **json-render-react**: React renderer for json-render that turns JSON specs into React components.
+9. **json-render-remotion**: Remotion renderer for json-render that turns JSON timeline specs into videos.
+10. **mcp-server-skills**: Pattern for building MCP servers in Next.js with mcp-handler, shared Zod schemas, and reusable server actions.
+11. **next-best-practices**: Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling.
+12. **next-cache-components**: Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag.
+13. **next-upgrade**: Upgrade Next.js to the latest version following official migration guides and codemods.
+14. **PRD Mastery: Context-Aware, Expert-Driven, and Token-Efficient Refinement**: A skill that blends the wisdom of top industry experts, ensures token-efficient PRDs, and organizes outputs in a clear folder structure.
+15. **remotion**: Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays.
+16. **remotion-best-practices**: Best practices for Remotion - Video creation in React.
+17. **resend-integration-skills**: Integrate Resend email service via MCP protocol for AI agents to send emails with Claude Desktop, GitHub Copilot, and Cursor.
+18. **shadcn-ui**: Expert guidance for integrating and building applications with shadcn/ui components, including component discovery, installation, customization, and best practices.
+19. **streamdown**: Implement, configure, and customize Streamdown — a streaming-optimized React Markdown renderer with syntax highlighting, Mermaid diagrams, math rendering, and CJK support.
+20. **vercel-composition-patterns**: React composition patterns that scale.
+21. **vercel-react-best-practices**: React and Next.js performance optimization guidelines from Vercel Engineering.
+22. **web-design-guidelines**: Review UI code for Web Interface Guidelines compliance.
+23. **playwright-cli**: Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages.
+
 
 ## Usecases
 
-1. Quality Assurance & Automated Tests
-2. Software Design & Development
-3. UI/UX Design
+### Claude Code
+
+### Antigravity
+
+### Github Copilot
