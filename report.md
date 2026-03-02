@@ -139,6 +139,9 @@ Once organized, these skills will represent our internal best practices. By usin
 - Docker & Container Orchestration: Dockerfile optimization, multi-stage builds, image security, and container best practices.
 - Kubernetes Deployment: Service configuration, health checks, scaling strategies, and cluster management patterns.
 - CI/CD Pipeline Automation: GitHub Actions, GitLab CI, deployment strategies, and infrastructure-as-code.
+- Automated Software Documentation: Product specifications, technical documentation, and API reference generation.
+- Release Management: Automated release notes, changelog generation, and versioning strategies.
+- Test Reporting: Automated test case reporting and quality metric dashboarding.
 
 **Specialized Agents to Build:**
 - **React Architecture Specialist Agent:** Reviews component structure, enforces composition patterns, identifies prop drilling, and suggests refactoring for reusability.
@@ -146,6 +149,7 @@ Once organized, these skills will represent our internal best practices. By usin
 - **Backend Architecture Agent:** Validates API design, reviews database patterns, checks authentication flows, and suggests scaling improvements.
 - **DevOps Configuration Agent:** Reviews Docker/Kubernetes manifests, validates CI/CD pipelines, and ensures infrastructure best practices.
 - **Upgrade & Migration Agent:** Guides version upgrades, applies codemods, validates breaking changes, and tests migration scenarios.
+- **Documentation & Release Agent:** Generates product specs, technical documentation, release notes, and manages changelogs consistently.
 
 **Deliverables:**
 - Consolidated skill library covering Next.js, React, Django, FastAPI, Turborepo, Docker, and Kubernetes.
@@ -170,6 +174,8 @@ Once organized, these skills will represent our internal best practices. By usin
 - API Testing & Validation: REST/GraphQL endpoint testing, schema validation, performance testing, and contract testing.
 - Visual Regression Testing: Screenshot comparison, pixel-level diff detection, and baseline management.
 - Performance & Load Testing: Benchmark setup, threshold validation, and performance regression detection.
+- Standardized Engineering Testing: Unit testing, integration testing, and functional testing across components.
+- Advanced Quality Assurance: Stress testing, load peak analysis, and black box/monkey testing for system resilience.
 
 **Specialized Agents to Build:**
 - **Web Test Automation Agent:** Generates end-to-end test scenarios, creates Playwright test scripts, and validates test coverage.
@@ -178,6 +184,7 @@ Once organized, these skills will represent our internal best practices. By usin
 - **Python Connector Validator Agent:** Tests Python service integrations, validates data transformations, and checks error handling.
 - **Java Connector Validator Agent:** Tests Java service integrations, validates type safety, and checks exception handling.
 - **Performance Testing Agent:** Identifies performance regressions, validates benchmarks, and suggests optimization strategies.
+- **QA Automation & Resilience Agent:** Orchestrates unit and integration tests, performs stress tests and monkey testing to identify edge-case failures.
 
 **Deliverables:**
 - Test automation skill library for web, API, Python, and Java domains.
